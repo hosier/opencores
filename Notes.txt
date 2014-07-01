@@ -1,0 +1,13 @@
+EDID	Extended Display Indentification Data -describes display capabilities: reseolution, refresh rate
+DPCD	Display Port Configuration Data	-describes displayport connection capabilities
+"The Source Device needs only to read the Sink Device capability (EDID) and the link
+capability (DPCD) from its immediate downstream device and to source a stream accordingly."
+"mapping of these control symbols to ANSI 8B/10B special characters is described in Section 3.5.1.2"
+pixel steering- pg 43
+sample data pg 48
+stream clock recovery pg 66
+
+DPCD- pg 121,225
+
+
+
